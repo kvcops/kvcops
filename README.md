@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Karri Vamsi Krishna
 
-<p align="center">
-  <img src="https://your-cool-image-url-here.jpg" alt="Profile Banner" width="100%">
-</p>
-
 ## 🚀 About Me
 
 I'm a passionate Computer Science and Engineering student from Visakhapatnam, Andhra Pradesh, India. With a strong foundation in programming and problem-solving, I'm on a mission to develop innovative software solutions that make a difference.
@@ -30,12 +26,12 @@ I'm a passionate Computer Science and Engineering student from Visakhapatnam, An
 
 ## 🏆 Projects
 
-1. [AI Flowchart Generator](https://github.com/yourusername/ai-flowchart-generator)
-2. [Symmetry Detection](https://github.com/yourusername/symmetry-detection)
-3. [AI Chatbot for Career Guidance](https://github.com/yourusername/ai-career-guidance)
-4. [KV Nexus: AI Web Companion](https://github.com/yourusername/kv-nexus)
-5. [Text Classification using AI](https://github.com/yourusername/text-classification-ai)
-6. [Zomato Restaurant App](https://github.com/yourusername/zomato-restaurant-app)
+1. [AI Flowchart Generator]
+2. [Symmetry Detection]
+3. [AI Chatbot for Career Guidance]
+4. [KV Nexus: AI Web Companion]
+5. [Text Classification using AI]
+6. [Zomato Restaurant App]
 
 ## 🎖️ Certifications
 
@@ -54,7 +50,7 @@ I'm a passionate Computer Science and Engineering student from Visakhapatnam, An
 
 [![Email](https://img.shields.io/badge/Email-21131A05C6%40gvpce.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:21131A05C6@gvpce.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karri_Vamsi_Krishna-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karri-vamsi-krishna-966537251)
-[![GitHub](https://img.shields.io/badge/GitHub-kvcopss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kvcopss)
+[![GitHub](https://img.shields.io/badge/GitHub-kvcops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kvcops)
 
 ## 📊 GitHub Stats
 
