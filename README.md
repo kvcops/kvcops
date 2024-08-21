@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Karri Vamsi Krishna
-
+# 👋 Hi, I'm  Vamsi Krishna
 ## 🚀 About Me
 
 I'm a passionate Computer Science and Engineering student from Visakhapatnam, Andhra Pradesh, India. With a strong foundation in programming and problem-solving, I'm on a mission to develop innovative software solutions that make a difference.
@@ -26,12 +25,12 @@ I'm a passionate Computer Science and Engineering student from Visakhapatnam, An
 
 ## 🏆 Projects
 
-1. [AI Flowchart Generator]
-2. [Symmetry Detection]
-3. [AI Chatbot for Career Guidance]
-4. [KV Nexus: AI Web Companion]
-5. [Text Classification using AI]
-6. [Zomato Restaurant App]
+1. AI Flowchart Generator
+2. Symmetry Detection
+3. AI Chatbot for Career Guidance
+4. KV Nexus: AI Web Companion
+5. Text Classification using AI
+6. Zomato Restaurant App
 
 ## 🎖️ Certifications
 
@@ -55,9 +54,9 @@ I'm a passionate Computer Science and Engineering student from Visakhapatnam, An
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvcopss&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kvcops&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvcopss&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvcops&theme=radical" alt="GitHub Streak" />
 </p>
