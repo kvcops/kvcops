@@ -127,7 +127,7 @@ mindmap
 
 <div align="center">
   
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-teal?style=for-the-badge&logo=paintbrush&logoColor=white)](mailto:21131A05C6@gvpce.ac.in)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-teal?style=for-the-badge&logo=paintbrush&logoColor=white)](https://vamsikrishna28.vercel.app/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karri-vamsi-krishna-966537251)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvcops)
 
