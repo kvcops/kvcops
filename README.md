@@ -76,7 +76,7 @@ mindmap
 <tr>
 <td width="50%">
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-artificial-intelligence-100.png" width="20">
+    
     AI Flowchart Generator
 </h3>
 <div align="center">
@@ -92,7 +92,7 @@ mindmap
 
 <td width="50%">
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-web-100.png" width="20">
+    
     KV Nexus
 </h3>
 <div align="center">
@@ -110,7 +110,7 @@ mindmap
 <tr>
 <td width="50%">
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-computer-vision-100.png" width="20">
+    
     Symmetry Detection
 </h3>
 <div align="center">
@@ -126,7 +126,7 @@ mindmap
 
 <td width="50%">
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-document-100.png" width="20">
+   
     Document Summarization
 </h3>
 <div align="center">
