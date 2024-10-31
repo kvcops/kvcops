@@ -76,7 +76,7 @@ mindmap
 <tr>
 <td width="50%">
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-artificial-intelligence-100.png" width="20">
+    <img src="![image](https://github.com/user-attachments/assets/ece677e7-1666-4500-9a19-37f51a912f7b)" width="20">
     AI Flowchart Generator
 </h3>
 <div align="center">
