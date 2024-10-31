@@ -76,7 +76,7 @@ mindmap
 <tr>
 <td width="50%">
 <h3 align="center">
-    <img src="![image](https://github.com/user-attachments/assets/ece677e7-1666-4500-9a19-37f51a912f7b)" width="20">
+    ![image](https://github.com/user-attachments/assets/ece677e7-1666-4500-9a19-37f51a912f7b)
     AI Flowchart Generator
 </h3>
 <div align="center">
