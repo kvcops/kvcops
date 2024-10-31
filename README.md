@@ -76,10 +76,11 @@ mindmap
 <tr>
 <td width="50%">
 <h3 align="center">
+    <img src="https://raw.githubusercontent.com/sandip2224/My_README.md_template/main/resources/readme_elements/icons8-artificial-intelligence-100.png" width="20">
     AI Flowchart Generator
 </h3>
 <div align="center">
-<a href="https://ai-flowchart.vercel.app/" target="_blank"></a>
+<a href="https://ai-flowchart.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="AI Flowchart"/></a>
 <p>
 <a href="https://ai-flowchart.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE_DEMO-12100E?style=for-the-badge&logo=vercel&logoColor=white"/>
