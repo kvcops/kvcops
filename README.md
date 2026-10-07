@@ -1,330 +1,150 @@
-<div align="center">
-
-<!-- EPIC ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:6d28d9&height=320&section=header&text=Karri%20Vamsi%20Krishna&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Architect%20%E2%80%A2%20Knowledge%20Graph%20Builder%20%E2%80%A2%20RAG%20Systems&descSize=17&descColor=c4b5fd&descAlignY=58&stroke=a78bfa&strokeWidth=2" width="100%"/>
-
-<!-- LIVE TYPING BANNER -->
-<a href="https://github.com/kvcops">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=600&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=%F0%9F%8F%86+1st+Place+%E2%80%94+CODS+2025+Agentic+AI+%40+IISc+Bangalore;%E2%9A%A1+Building+Production+RAG+%26+Knowledge+Graph+Systems;%F0%9F%A4%96+LLM+Engineer+%7C+FastAPI+%7C+LangChain+%7C+Neo4j;%F0%9F%94%AE+Transforming+Data+Chaos+into+Intelligent+Automation;%F0%9F%8C%90+AI+Patent+Processing+%7C+Graph+Reasoning+%7C+LLM+Ops" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://github.com/kvcops">
-    <img src="https://komarev.com/ghpvc/?username=kvcops&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
-  </a>
-  &nbsp;
-  <a href="https://vamsikrishna28.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/karri-vamsi-krishna-966537251">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="linkedin"/>
-  </a>
-  &nbsp;
-  <a href="mailto:Vamsikv28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" alt="email"/>
-  </a>
-</p>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp;`whoami`
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290"/>
-
-<br/>
-
-🧑‍💻 &nbsp;**Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karri Vamsi Krishna  
-🏷️ &nbsp;**Alias** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `kvcops`  
-💼 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Data Scientist @ SciTech Patent Art Services  
-📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp; Hyderabad → Visakhapatnam 🇮🇳  
-🎓 &nbsp;**Education** &nbsp; B.Tech CSE — GVP Kommadi · **CGPA: 8.97 / 10** ⭐  
-🏆 &nbsp;**Trophy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🥇 1st Place — IKDD Agentic AI · CODS 2025 @ IISc Bangalore  
-⚡ &nbsp;**Superpower** &nbsp;LLM Systems · RAG · Knowledge Graph Design  
-📬 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vamsikv28@gmail.com  
-🌱 &nbsp;**Current** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Patent Processing Pipelines  
-💡 &nbsp;**Interests** &nbsp;&nbsp;&nbsp; Chess ♟️ · Photography 📷 · Competitive Programming  
-
-<br clear="right"/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"/> &nbsp;Tech Arsenal
+<!--
+  ███  THE NIGHT ARCHIVE  ███
+  Every visual below is a hand-written animated SVG in ./assets (no external image services).
+  Regenerate them with:  python3 scripts/gen_assets.py
+-->
 
 <div align="center">
 
-### 🤖 &nbsp;AI · ML · LLM Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-FF6C37?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightRAG-7c3aed?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
----
-
-### 🛠️ &nbsp;Backend · APIs · Web Automation
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frappe-7c3aed?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-### 🗄️ &nbsp;Databases · Cloud · DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</p>
-
----
-
-### 💻 &nbsp;Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
-<br/>
-
-## 💼 &nbsp;Work Experience
-
-<br/>
-
-> 🔬 &nbsp;**Mar 2026 – Present** &nbsp;|&nbsp; ![Current](https://img.shields.io/badge/-CURRENT-22c55e?style=flat-square)
->
-> ### Junior Data Scientist &nbsp;@&nbsp; [SciTech Patent Art Services](https://www.scitechpatentart.com/) &nbsp;·&nbsp; 📍 Hyderabad, India
->
-> - 🏗️ Building end-to-end AI workflows to parse, classify & transform raw patent documents into structured, machine-readable formats
-> - 🤖 LLM-powered patent intelligence pipelines for automated document understanding
-> - 🔄 Machine-readable patent data transformation systems at scale
-
-<br/>
-
-> ⚙️ &nbsp;**Aug 2025 – Mar 2026** &nbsp;|&nbsp; ![Promoted](https://img.shields.io/badge/-PROMOTED-a78bfa?style=flat-square)
->
-> ### AI Software Engineer L1 &nbsp;@&nbsp; Gyan Data Pvt Ltd &nbsp;·&nbsp; 📍 Chennai, India
->
-> - 🧠 Knowledge Graph Engine with domain-constrained graph selection for intelligent retrieval
-> - ⚡ Real-time LLM token streaming pipeline → drastically reduced perceived latency
-> - 📊 Telemetry AI Dashboard — Streamlit + Plotly + Autonomous Agents
-> - 🚀 High-performance FastAPI chatbot backend + Neo4j RAG systems
-> - 🔍 LangSmith monitoring · Frappe ERP customization · Playwright E2E testing
-
-<br/>
-
-> 🌱 &nbsp;**Jan 2025 – Jul 2025**
->
-> ### Data Science Intern &nbsp;@&nbsp; Gyan Data Pvt Ltd &nbsp;·&nbsp; 📍 Chennai, India
->
-> - 🛠️ ERP customization + AI chatbot development
-> - ✅ **Promoted to full-time AI Engineer L1 based on performance**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
-<br/>
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kvcops/AI-Text-Classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvcops&repo=AI-Text-Classification&theme=midnight-purple&bg_color=0d0d1a&hide_border=true&title_color=a78bfa&icon_color=a78bfa"/>
-</a>
-&nbsp;
-<a href="https://github.com/kvcops/Zomato-Web-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvcops&repo=Zomato-Web-app&theme=midnight-purple&bg_color=0d0d1a&hide_border=true&title_color=a78bfa&icon_color=a78bfa"/>
+<a href="https://vamsikrishna28.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Karri Vamsi Krishna — Forward-Deployed AI Engineer building agentic systems, LLM apps and production RAG. 1st place, IKDD Agentic AI Challenge, CODS 2025."/>
 </a>
 
 <br/><br/>
 
-| 🔮 | Project | Stack | Description |
-|:---:|:---|:---|:---|
-| 🎓 | **[Medha Spark AI](https://github.com/kvcops)** | `FastAPI` `Gemini` `PostgreSQL` | AI learning platform — dynamic roadmaps, Adaptive Learning Engine & SRS flashcards |
-| 🔬 | **[AI Deep Research Tool](https://github.com/kvcops)** | `Python` `Web Scraping` `ReportLab` | Concurrent scraping + Gemini analysis → auto PDF reports |
-| 🌐 | **[KV Nexus](http://kv-nexus.vercel.app/)** | `Full Stack` `Gemini API` `REST` | AI companion — recipes, health, real-time Flowchart & Mindmap gen |
-| 🌿 | **[AYUSH Herbal Garden](https://github.com/kvcops)** | `Flask` `Firebase` `A-Frame 3D` | Immersive VR/3D — 50+ medicinal plants + GSAP animations |
-| 📊 | **[AI Flowchart Generator](https://ai-flowchart.vercel.app/)** | `Flask` `GenAI` `Python` | Natural language → intelligent flowcharts instantly |
-| 📄 | **[Intelligent Doc Summarizer](https://lnkd.in/gK_NP5gP)** | `LLM Optimization` `NLP` | AI tool to condense large documents with precision |
-| 🤖 | **[AI Text Classifier](https://github.com/kvcops/AI-Text-Classification)** | `ML` `NLP` `Python` | Detect AI-generated vs human-written content |
-| 🍽️ | **[Zomato Restaurant App](https://github.com/kvcops/Zomato-Web-app)** | `Full Stack` `Analytics` | Advanced restaurant data analysis & search platform |
+<a href="https://vamsikrishna28.vercel.app/"><img src="./assets/btn_portfolio.svg" width="24%" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/karri-vamsi-krishna-966537251"><img src="./assets/btn_linkedin.svg" width="24%" alt="LinkedIn"/></a>
+<a href="mailto:Vamsikv28@gmail.com"><img src="./assets/btn_email.svg" width="24%" alt="Email"/></a>
+<a href="https://github.com/kvcops?tab=repositories"><img src="./assets/btn_github.svg" width="24%" alt="GitHub repositories"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kvcops&style=flat-square&color=F5B759&label=ARCHIVE+VISITORS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/kvcops?style=flat-square&color=0E1118&labelColor=F5B759&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Agentic%20AI%20·%20Forward--Deployed%20·%20LLM%20Engineer-0E1118?style=flat-square&labelColor=7EE787" alt="open to agentic AI, forward-deployed and LLM engineering roles"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
+<img src="./assets/h_whoami.svg" width="100%" alt="File 01 — whoami"/>
+
+<img src="./assets/terminal.svg" width="100%" alt="whoami: Karri Vamsi Krishna, forward-deployed AI engineer in Hyderabad. Junior Data Scientist at SciTech Patent Art, building patent and legal document intelligence. Shipped: patent extraction, claim charts, legal RAG, JobHunterX, ReferentWeave, Atrophy. 1st place, IKDD Agentic AI Challenge, CODS 2025."/>
+
+> I embed with real workflows — patent analysts, legal teams, plant engineers — and replace the slow manual parts with **agents, RAG and document AI that hold up in production**. No demos that die on real users: every system below has numbers behind it.
+
+<br/>
+
+<img src="./assets/h_impact.svg" width="100%" alt="File 02 — Field results"/>
+
+<img src="./assets/impact.svg" width="100%" alt="95%+ claim-chart accuracy (manual was 30–40%), 90–95% lower processing cost, 3–5x cheaper patent extraction, $0.80 per 1,000 pages."/>
+
+<br/>
+
+<img src="./assets/h_experience.svg" width="100%" alt="File 03 — Field record"/>
+
+<img src="./assets/experience.svg" width="100%" alt="Experience timeline: Junior Data Scientist at SciTech Patent Art Services (Mar 2026 – present), AI Software Engineer L1 at Gyan Data (Aug 2025 – Mar 2026), Data Science Intern at Gyan Data (Jan – Jul 2025)."/>
+
+<details>
+<summary><b>📂 &nbsp;Open the full case files</b></summary>
+<br/>
+
+**Junior Data Scientist — SciTech Patent Art Services** · Hyderabad · *Mar 2026 – Present*
+- **Patent extraction pipeline (US/EP/JP):** OCR + non-OCR with Azure OCR, PP-DocLayout / Docling (CPU/GPU-optimized) and Gemini bounding boxes for image cropping and LaTeX formulas, line-level coordinate mapping, real-time WebSocket collaboration → **3–5× lower cost**. Re-designed server-to-server transfer to be fully async with auto-matching.
+- **Chart & claim construction:** replaced a manual Adobe Acrobat workflow (30–40% accuracy, hours per document) with an automated pipeline — CPU-only OpenCV rectangle-merge for SMask images, multi-agent text-spillover detection, citation extraction → **95%+ accuracy, 90–95% lower cost**, thousands of pages in minutes.
+- **Non-table claim charts:** exact per-line coordinates across wildly varying layouts at **$0.80 / 1,000 pages**.
+- **Legal RAG chatbot:** parallel ingestion + leaner agent orchestration → lower latency and token spend (FastAPI, PostgreSQL, LangChain/LangGraph).
+- **Website-to-PDF & legal media:** Selenium full-page PDF engine that fixes broken Print-to-PDF; video/GIF pipeline with keyframe dedupe (24/30 FPS), Whisper transcripts and LLM summaries.
+
+**AI Software Engineer L1 — Gyan Data** · Chennai · *Aug 2025 – Mar 2026*
+- **Telemetry AI dashboard** for real-time turbine monitoring — autonomous agents, natural-language queries, streamed tokens, live Plotly (Streamlit).
+- **Graph-RAG backend** with FastAPI + LightRAG + Neo4j and domain-constrained graph selection; Frappe ERP customization with Playwright E2E.
+- **DB-agnostic AI chatbot** — LangChain/LangGraph, Google Auth, pluggable OpenRouter / Gemini / OpenAI / Ollama, LangSmith monitoring.
+
+**Data Science Intern — Gyan Data** · Chennai · *Jan 2025 – Jul 2025*
+- ERP customization + AI chatbot development → **direct full-time conversion offer**.
+
+</details>
+
+<br/>
+
+<img src="./assets/h_exhibits.svg" width="100%" alt="File 04 — Exhibits"/>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<a href="https://github.com/kvcops/ReferentWeave"><img src="./assets/p_referentweave.svg" width="49%" alt="ReferentWeave — reference-aware RAG. Recall@1 63.3% vs 18.3% for standard RAG."/></a>
+<a href="https://github.com/kvcops/JobHunterX"><img src="./assets/p_jobhunterx.svg" width="49%" alt="JobHunterX — six tool-calling agents in one LangGraph state machine, 85 automated tests."/></a>
+<a href="https://github.com/kvcops/Atrophy"><img src="./assets/p_atrophy.svg" width="49%" alt="Atrophy — open-source CLI on PyPI that tracks skill decay from AI-written commits."/></a>
+<a href="https://github.com/kvcops/Deep-Research-using-Gemini-api"><img src="./assets/p_deepresearch.svg" width="49%" alt="Deep Research — Gemini research agent that writes PDF reports. 29 stars."/></a>
+<a href="https://neuriq-ai.onrender.com/"><img src="./assets/p_neuriq.svg" width="49%" alt="NeurIQ AI — live adaptive AI tutor."/></a>
+<a href="https://github.com/kvcops/KV-Nexus"><img src="./assets/p_kvnexus.svg" width="49%" alt="KV Nexus — my first website, 12 stars and 22 forks."/></a>
 </div>
 
 <br/>
 
-## 🏆 &nbsp;Achievements & Certifications
+<a href="https://github.com/kvcops/JobHunterX"><img src="./assets/agents.svg" width="100%" alt="JobHunterX architecture: Profiler, Planner, Scout, Gate, Evaluator and Tailor agents behind a multi-LLM router, with a human-in-the-loop browser agent."/></a>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kvcops&theme=discord&column=7&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-
-<br/>
-
-| 🎖️ | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **1st Place — IKDD Agentic AI Challenge** | CODS 2025 @ IISc Bangalore · Built predictive maintenance AI under competition pressure |
-| 🥈 | **2nd Round — Adobe GenSolve Hackathon** | Qualified into second round of Adobe's national-level design & AI hackathon |
-| 🏟️ | **IBC National Hackathon** | Participant — built & pitched an AI-powered solution live |
-| ⚡ | **IEEE Mystical Code** | Organizer & Team Lead — planned and executed event end-to-end |
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/☁️_CCSK-Cloud_Security_Cohort_5-7c3aed?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Gen_AI_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Juniper_Networks-Certified-84CC16?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Infosys-AI_Certified-0052CC?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Salesforce-Dev_Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1a1a2e"/>
+<p align="center">
+  <sub>
+    <a href="https://pypi.org/project/atrophy/">Atrophy on PyPI</a> ·
+    <a href="https://kvcops.github.io/Atrophy/">Atrophy site</a> ·
+    <a href="https://youtu.be/UNdSUAgBMAc">Deep Research walkthrough</a> ·
+    <a href="https://neuriq-ai.onrender.com/">NeurIQ AI live</a> ·
+    <a href="http://kv-nexus.vercel.app/">KV Nexus live</a>
+  </sub>
 </p>
 
-</div>
+<details>
+<summary><b>🗄️ &nbsp;From the earlier shelves</b></summary>
+<br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[AI Flowchart Generator](https://ai-flowchart.vercel.app/)** | Flask · GenAI · Python | Natural language → flowcharts, instantly |
+| **[Intelligent Doc Summarizer](https://lnkd.in/gK_NP5gP)** | LLM optimization · NLP | Condenses large documents with precision |
+| **[AYUSH Herbal Garden](https://github.com/kvcops)** | Flask · Firebase · A-Frame 3D | Immersive VR/3D garden of 50+ medicinal plants with GSAP animations |
+| **[AI Text Classifier](https://github.com/kvcops/AI-Text-Classification)** | Python · NLP | Detects AI-generated vs human-written text |
+| **[Zomato Restaurant App](https://github.com/kvcops/Zomato-Web-app)** | Full stack · Analytics | Restaurant data analysis & search platform |
+
+</details>
 
 <br/>
 
-## 📊 &nbsp;GitHub Statistics
+<img src="./assets/h_stack.svg" width="100%" alt="File 05 — Instruments"/>
 
-<div align="center">
+<img src="./assets/stack.svg" width="100%" alt="Stack — Agents: LangGraph, LangChain, multi-agent systems, tool calling, MCP, Browser Use, human-in-the-loop. LLM engineering: structured outputs, multi-LLM routing, streaming, LangSmith evals. RAG: Graph-RAG, LightRAG, Neo4j, hybrid BM25 + dense, RRF, reranking, FAISS. Models: OpenAI, Anthropic Claude, Gemini, OpenRouter, Groq, Mistral, Ollama, Hugging Face, Whisper. Document AI: Azure OCR, Docling, PP-DocLayout, OpenCV. Backend: Python, FastAPI, Flask, WebSockets, PostgreSQL, SQLite, Docker, Selenium, Streamlit, GCP, Render, Vercel."/>
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvcops&custom_title=Vamsi%27s%20Contribution%20Graph&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area_color=4c1d95&title_color=a78bfa&area=true&hide_border=true&radius=8" width="100%"/>
-
-<br/>
-
-<!-- STATS ROW -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kvcops&show_icons=true&theme=midnight-purple&bg_color=0d0d1a&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2d9f3&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kvcops&theme=midnight-purple&background=0d0d1a&hide_border=true&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=e2d9f3&dates=e2d9f3&stroke=7c3aed"/>
-
-<br/><br/>
-
-<!-- LANGUAGE CARD + EXTRA CARD -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvcops&layout=compact&theme=midnight-purple&bg_color=0d0d1a&hide_border=true&title_color=a78bfa&text_color=e2d9f3&langs_count=8&card_width=350"/>
-
-<!-- METRICS SNAKE ANIMATION -->
-<br/><br/>
-
-![snake animation](https://raw.githubusercontent.com/kvcops/kvcops/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
-<br/>
-
-## 🎓 &nbsp;Education
-
-<div align="center">
-
-| 🏛️ Institution | 📚 Degree | 📅 Year | 🏅 Score |
-|:---:|:---:|:---:|:---:|
-| **Gayatri Vidya Parishad, Kommadi** | B.Tech — Computer Science & Engineering | 2021 – 2025 | **CGPA 8.97 ⭐** |
-| **Sri Chaitanya Junior College** | Intermediate — MPC | 2019 – 2021 | **97.7% 🔥** |
-| **Sri Chaitanya EM School, Anakapalle** | SSC | 2019 | **GPA 9.8 💎** |
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
-<br/>
-
-## 💬 &nbsp;Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%"/>
-</div>
-
-<br/>
-
-## 🤝 &nbsp;Let's Build Something Incredible
-
-<div align="center">
-
-<p>
-  <a href="https://vamsikrishna28.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-7c3aed?style=for-the-badge&labelColor=0d0d1a"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/karri-vamsi-krishna-966537251">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/kvcops">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a"/>
-  </a>
-  &nbsp;
-  <a href="mailto:Vamsikv28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello_👋-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,sqlite,docker,git,linux,gcp,firebase,vercel,js,html,css,cpp,java,bitbucket&theme=dark&perline=17" alt="Python, FastAPI, Flask, PostgreSQL, SQLite, Docker, Git, Linux, Google Cloud, Firebase, Vercel, JavaScript, HTML, CSS, C++, Java, Bitbucket"/>
 </p>
 
 <br/>
 
-> ### *"Building intelligent systems that turn raw data into real-world impact — one graph at a time."*
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**— Karri Vamsi Krishna**
+<img src="./assets/h_activity.svg" width="100%" alt="File 06 — The ledger"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvcops&custom_title=commit%20ledger%20%C2%B7%20last%2031%20days&bg_color=07090D&color=9AA0B0&line=F5B759&point=FFF1C9&area_color=F5B759&title_color=F5B759&area=true&hide_border=true&radius=16" width="100%" alt="contribution activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvcops/kvcops/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvcops/kvcops/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/kvcops/kvcops/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contribution graph"/>
+</picture>
+
+</div>
 
 <br/>
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:0f0c29&height=160&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=16" width="100%"/>
+<img src="./assets/h_record.svg" width="100%" alt="File 07 — Record"/>
 
-</div>
+<img src="./assets/record.svg" width="100%" alt="1st place — IKDD Agentic AI Challenge (AssetOpsBench), CODS 2025, IISER Pune. Hackathons: 2nd round Adobe GenSolve, IBC National Hackathon, organizer of IEEE Mystical Code. Certifications: CCSK Cloud Security (Cohort-5), Google Cloud Gen AI, Juniper Networks, Infosys AI, Salesforce Developer. Education: B.Tech CSE, Gayatri Vidya Parishad College of Engineering (A), 2021–25, CGPA 8.97; Intermediate MPC, Sri Chaitanya Junior College, Steel Plant, 2019–21, 97.7%; SSC, Sri Chaitanya EM School, Anakapalle, 2019, GPA 9.8."/>
+
+<p align="center"><sub>off the clock: ♟️ chess · 📷 photography · 🧮 competitive programming · speaks English, Telugu, Hindi</sub></p>
+
+<br/>
+
+<a href="mailto:Vamsikv28@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="Have an AI pilot stuck in notebooks? Email Vamsikv28@gmail.com — I embed with your team and ship it to production."/>
+</a>
+
+<p align="center"><sub>every pixel above is hand-written SVG &nbsp;·&nbsp; zero claims without artifacts &nbsp;·&nbsp; © 2026 Karri Vamsi Krishna</sub></p>
